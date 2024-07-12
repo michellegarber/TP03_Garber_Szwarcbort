@@ -1,0 +1,28 @@
+Z:\2024\programacion\TP03_Szwarcbort_Garber\obj\Debug\net8.0\TP03_Szwarcbort_Garber.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2024\programacion\TP03_Szwarcbort_Garber\obj\Debug\net8.0\TP03_Szwarcbort_Garber.AssemblyInfoInputs.cache
+Z:\2024\programacion\TP03_Szwarcbort_Garber\obj\Debug\net8.0\TP03_Szwarcbort_Garber.AssemblyInfo.cs
+Z:\2024\programacion\TP03_Szwarcbort_Garber\obj\Debug\net8.0\TP03_Szwarcbort_Garber.csproj.CoreCompileInputs.cache
+Z:\2024\programacion\TP03_Szwarcbort_Garber\bin\Debug\net8.0\TP03_Szwarcbort_Garber.exe
+Z:\2024\programacion\TP03_Szwarcbort_Garber\bin\Debug\net8.0\TP03_Szwarcbort_Garber.deps.json
+Z:\2024\programacion\TP03_Szwarcbort_Garber\bin\Debug\net8.0\TP03_Szwarcbort_Garber.runtimeconfig.json
+Z:\2024\programacion\TP03_Szwarcbort_Garber\bin\Debug\net8.0\TP03_Szwarcbort_Garber.dll
+Z:\2024\programacion\TP03_Szwarcbort_Garber\bin\Debug\net8.0\TP03_Szwarcbort_Garber.pdb
+Z:\2024\programacion\TP03_Szwarcbort_Garber\obj\Debug\net8.0\TP03_Szwarcbort_Garber.dll
+Z:\2024\programacion\TP03_Szwarcbort_Garber\obj\Debug\net8.0\refint\TP03_Szwarcbort_Garber.dll
+Z:\2024\programacion\TP03_Szwarcbort_Garber\obj\Debug\net8.0\TP03_Szwarcbort_Garber.pdb
+Z:\2024\programacion\TP03_Szwarcbort_Garber\obj\Debug\net8.0\TP03_Szwarcbort_Garber.genruntimeconfig.cache
+Z:\2024\programacion\TP03_Szwarcbort_Garber\obj\Debug\net8.0\ref\TP03_Szwarcbort_Garber.dll
+Z:\2024\programacion\BIM1\TP03_Szwarcbort_GarberNO TERMINADO\TP03_Szwarcbort_Garber\bin\Debug\net8.0\TP03_Szwarcbort_Garber.exe
+Z:\2024\programacion\BIM1\TP03_Szwarcbort_GarberNO TERMINADO\TP03_Szwarcbort_Garber\bin\Debug\net8.0\TP03_Szwarcbort_Garber.deps.json
+Z:\2024\programacion\BIM1\TP03_Szwarcbort_GarberNO TERMINADO\TP03_Szwarcbort_Garber\bin\Debug\net8.0\TP03_Szwarcbort_Garber.runtimeconfig.json
+Z:\2024\programacion\BIM1\TP03_Szwarcbort_GarberNO TERMINADO\TP03_Szwarcbort_Garber\bin\Debug\net8.0\TP03_Szwarcbort_Garber.dll
+Z:\2024\programacion\BIM1\TP03_Szwarcbort_GarberNO TERMINADO\TP03_Szwarcbort_Garber\bin\Debug\net8.0\TP03_Szwarcbort_Garber.pdb
+Z:\2024\programacion\BIM1\TP03_Szwarcbort_GarberNO TERMINADO\TP03_Szwarcbort_Garber\obj\Debug\net8.0\TP03_Szwarcbort_Garber.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2024\programacion\BIM1\TP03_Szwarcbort_GarberNO TERMINADO\TP03_Szwarcbort_Garber\obj\Debug\net8.0\TP03_Szwarcbort_Garber.AssemblyInfoInputs.cache
+Z:\2024\programacion\BIM1\TP03_Szwarcbort_GarberNO TERMINADO\TP03_Szwarcbort_Garber\obj\Debug\net8.0\TP03_Szwarcbort_Garber.AssemblyInfo.cs
+Z:\2024\programacion\BIM1\TP03_Szwarcbort_GarberNO TERMINADO\TP03_Szwarcbort_Garber\obj\Debug\net8.0\TP03_Szwarcbort_Garber.csproj.CoreCompileInputs.cache
+Z:\2024\programacion\BIM1\TP03_Szwarcbort_GarberNO TERMINADO\TP03_Szwarcbort_Garber\obj\Debug\net8.0\TP03_Szwarcbort_Garber.dll
+Z:\2024\programacion\BIM1\TP03_Szwarcbort_GarberNO TERMINADO\TP03_Szwarcbort_Garber\obj\Debug\net8.0\refint\TP03_Szwarcbort_Garber.dll
+Z:\2024\programacion\BIM1\TP03_Szwarcbort_GarberNO TERMINADO\TP03_Szwarcbort_Garber\obj\Debug\net8.0\TP03_Szwarcbort_Garber.pdb
+Z:\2024\programacion\BIM1\TP03_Szwarcbort_GarberNO TERMINADO\TP03_Szwarcbort_Garber\obj\Debug\net8.0\TP03_Szwarcbort_Garber.genruntimeconfig.cache
+Z:\2024\programacion\BIM1\TP03_Szwarcbort_GarberNO TERMINADO\TP03_Szwarcbort_Garber\obj\Debug\net8.0\ref\TP03_Szwarcbort_Garber.dll
